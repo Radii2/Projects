@@ -1,0 +1,3 @@
+radek                	    5
+michal               	    5
+denis                	    2
