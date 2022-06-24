@@ -1,0 +1,19 @@
+Miasto Index
+Szczecin 0
+Gdansk 1
+Olsztyn 2
+Bialystok 3
+Gorzow Wielkopolski 4
+Zielona Gora 5
+Poznan 6
+Bydgoszcz 7
+Torun 8
+Warszawa 9
+£odz 10
+Wroclaw 11
+Opole 12
+Kielce 13
+Lublin 14
+Katowice 15
+Krakow 16
+Rzeszow 17
